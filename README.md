@@ -19,3 +19,5 @@ We propose to develop a desktop-based Simple Inventory Management System using J
 8. Manage Supplier
 9. Sale Order Management
 10. Purchase Order (PO)
+
+Members:
